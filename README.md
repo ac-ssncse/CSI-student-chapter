@@ -9,3 +9,12 @@
 # 2019-2021
 # Lateral thinking
 - 20 Aug 2019
+# Python and wisdon education 
+- Sep 2019 to Nov 2019
+# Cyber security workshop
+- 18 sep 2019
+# Intellectual property rights workshop
+- 11 and 12 Feb 2020
+# Latex workshop
+- 2 Mar 2020
+# 2018-2019
