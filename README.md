@@ -14,11 +14,11 @@
 # Cyber security workshop
 - 18 sep 2019 (view the files - report, CEP)
 # Intellectual property rights workshop
-- 11 and 12 Feb 2020 (view the files - poster)
+- 11 and 12 Feb 2020 (view the files - poster, schedule)
 # Latex workshop
 - 2 Mar 2020 (view the files - poster, report, CEP)
 # 2018-2019
 # Research documentation and latex software workshop 
 - 28 Feb 2019 (view the files - poster, report, CEP)
 # Third CSI project colloquium 2019
-- 7 Mar 2019 (view the files - poster, report, CEP)
+- 7 Mar 2019 (view the files - poster, report, CEP, invitation, schedule)
