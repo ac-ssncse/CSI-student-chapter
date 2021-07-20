@@ -9,7 +9,7 @@
 # 2019-2021
 # Lateral thinking
 - 20 Aug 2019
-# Python and wisdon education 
+# Python and wisdom education workshop
 - Sep 2019 to Nov 2019
 # Cyber security workshop
 - 18 sep 2019
