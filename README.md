@@ -18,7 +18,7 @@
 # Latex workshop
 - 2 Mar 2020
 # 2018-2019
-# Research documentatio and latex software workshop 
+# Research documentation and latex software workshop 
 - 28 Feb 2019
 # Third CSI project colloquium 2019
 - 7 Mar 2019
