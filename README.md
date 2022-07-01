@@ -1,4 +1,9 @@
 # CSI-student-chapter
+# 2021-2022
+# Workshop on Full Stack Web Application Development
+-September 18, 2021 to December 11, 2021 (view the files -poster, email announcement, dept magazine report)
+# Python and Wisdom Education workshop
+- 14 Dec 2021 to 3 Feb 2022 (view the files - poster, schedule, speaker details)
 # 2020-2021
 # Second cyber security workshop
 - 25 Mar 2021 (view the files - poster, CEP,  dept magazine report)
